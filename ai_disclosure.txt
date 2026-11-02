@@ -1,0 +1,3 @@
+For this project claude AI was used to format the NIST data spectra lines in a visible wavelength into (wavelength nm, intensity) format.
+Claude AI was also used to assit in the AI checkbox updates, since I have never used interactive elements in MatPlotLib before I used claude to 
+assit in writing the update_framework format. 
